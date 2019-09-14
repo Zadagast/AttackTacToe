@@ -1,10 +1,10 @@
 {
-	"name": "Attack Tac Toe",
-	"short_name": "Attack Tac Toe",
+	"name": "AttackTacToe02a",
+	"short_name": "AttackTacToe02a",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{
